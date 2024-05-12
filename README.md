@@ -1,2 +1,5 @@
 # BeautyCamera
-A basic camera app that takes photos and scores them.
+
+## Features
+- *** Capture and Calculate Score of Your Image ***
+- *** Import Image from Gallery and Calculate Score ***
